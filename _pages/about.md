@@ -44,11 +44,9 @@ experiences:
   - title: UNITECH intern
     location: Infinion AG, Munich, Germany
     date: summer of 2015
-    description: TODO§
   - title: Software Engineer
     location: NIRA Dynamics, Linköping, Sweden
     date: summers of 2012 and 2013
-    description: TODO
 ---
 
 My four character strengths are: critical thinking, curiosity, creativity and love of learning. I am currently honing my critical thinking and making use of my curiosity and creativity in the pursuit of a PhD, as part of my employment at [Zenseact](https://zenseact.com). Outside of work I enjoy spending time with my kids and my life partner, Cecilia. We live in a house in Pixbo together with our two cats, two bunnies and a small flock of chickens. My creativity is further expressed through [music](/music/) and [photography](/photo/), and I enjoy reading to feed my curiosity and love of learning. I also enjoy yoga and walks in nature.
