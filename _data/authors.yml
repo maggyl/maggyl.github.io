@@ -1,0 +1,108 @@
+---
+maggyl:
+  firstname: ["Magnus", "M.", "M. G.", "Magnus Gyllenhammar"]
+  org: Zenseact and KTH
+  url: https://maggyl.github.io
+  scholar: 2NAVPBMAAAAJ
+torngren:
+  firstname: ["Martin", "M.", "M. T.", "Martin Törngren"]
+  org: KTH Royal Institute of Technology
+  url: https://www.kth.se/profile/martint
+  scholar: -F-KArEAAAAJ
+campos:
+  firstname: ["Gabriel", "G.", "G. C.", "Gabriel Rodrigues de Campos"]
+  org: Zenseact AB
+  url: http://www.gabrieldecampos.com
+  scholar: wK-DQL0AAAAJ
+warg:
+  firstname: ["Fredrik", "F.", "F. W.", "Fredrik Warg"]
+  org: RISE Research Institutes of Sweden
+  url: https://warg.org
+  scholar: H4hiOCMAAAAJ
+rolf:
+  firstname: ["Rolf", "R.", "R. J.", "Rolf Johansson"]
+  org: Astus AB
+  scholar: qceJ6hwAAAAJ
+chen:
+   firstname: ["DeJiu", "D.", "D. C.", "DeJiu Chen"]
+   org: KTH Royal Institute of Technology
+   scholar: SE9ruMUAAAAJ
+heyn:
+   firstname: ["Hans-Martin", "H.", "H. H.", "Hans-Martin Heyn"]
+   org: Volvo Technology AB
+   scholar: Pd5pmvQAAAAJ
+sanfridson:
+  firstname: ["Martin", "M.", "M. S.", "Martin Sanfridson"]
+  org: Volvo Technology AB
+soderberg:
+   firstname: ["Jan", "J.", "J. S.", "Jan Söderberg"]
+   org: Systemite AB
+   url: https://www.researchgate.net/profile/Jan-Soderberg
+thorsen:
+  firstname: ["Anders", "A.", "A. T.", "Anders Thorsén"]
+  org: RISE Research Institutes of Sweden
+  url: https://www.ri.se/sv/person/anders-thorsen
+ursing:
+  firstname: ["Stig", "S.", "S. U.", "Stig Ursing"]
+  org: Semcon Sweden AB
+  url: https://www.researchgate.net/profile/Stig-Ursing
+bergenhem:
+  firstname: ["Carl", "C.", "C. B.", "Carl Bergenhem"]
+  org: Qamcom
+  scholar: JN3MbzYAAAAJ
+zanden:
+  firstname: ["Carl", "C.", "C. Z.", "Carl Zandén"]
+  org: Zenuity AB
+  scholar: TKtpRAcAAAAJ
+brannstrom:
+  firstname: ["Mattias", "M.", "M. B.", "Mattias Brännström"]
+  org: Zenseact AB
+  scholar: rM9mOFAAAAAJ
+sandblom:
+  firstname: ["Fredrik", "F.", "F. S.", "Fredrik Sandblom"]
+  org: Zenseact AB
+sivencrona:
+  firstname: ["Håkan", "H.", "H. S.", "Håkan Sivencrona"]
+  org: Zenseact AB
+xinhai:
+  firstname: ["Xinhai", "X.", "X. Z.", "Xinhai Zhang"]
+  org: KTH Royal Institute of Technology
+  scholar: hANonS0AAAAJ
+jianbotao:
+  firstname: ["Jianbo", "J.", "J. T.", "Jianbo Tao"]
+  org: AVL List
+  scholar: UKUtWucAAAAJ
+tan:
+  firstname: ["Kaige", "K.", "K. T.", "Jianbo Tan"]
+  org: KTH Royal Institute of Technology
+  scholar: qA2Xb_MAAAAJ
+jose:
+  firstname: ["José Manuel Gaspar", "JMG.", "JMG. S.", "José Manuel Gaspar Sanchez"]
+  org: KTH Royal Institute of Technology
+  scholar: EEGDis0AAAAJ
+rusyadi:
+  firstname: ["Muhammad Rusyadi", "MR.", "MR. R.", "Muhammad Rusyadi Ramli"]
+  org: KTH Royal Institute of Technology
+  scholar: 6toSX0YAAAAJ
+xintao:
+  firstname: ["Xin", "X.", "X. T.", "Xin Tao"]
+  org: KTH Royal Institute of Technology
+  scholar: h405hiwAAAAJ
+wotawa:
+  firstname: ["Franz", "F.", "F. W.", "Franz Wotawa"]
+  org: Graz University of Technology
+  scholar: Z27gH2wAAAAJ
+mohan:
+  firstname: ["Naveen", "N.", "N. M.", "Naveen Mohan"]
+  org: KTH Royal Institute of Technology
+  scholar: bSJ8lQoAAAAJ
+nica:
+  firstname: ["Mihai", "M.", "M. N.", "Mihai Nica"]
+  org: AVL List
+feilbinger:
+  firstname: ["Hermann", "H.", "H. F.", "Hermann Feilbinger"]
+  org: AVL List
+skoglund:
+  firstname: ["Martin", "M.", "M. S.", "Martin Skoglund"]
+  org: RISE Research Institutes of Sweden
+---

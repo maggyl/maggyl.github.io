@@ -1,0 +1,38 @@
+
+
+{% if false %}
+
+<div class="timeline-content">
+  <ul class="timeline">
+
+    {% for event in include.events %}
+    <li class="event" data-date="{{ event.date }}">
+      <h3>{{ event.title }}</h3>
+      <p>{{ event.location }}</p>
+      {% if event.description %}
+      <p>{{ event.description }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+
+  </ul>
+</div>
+
+{% endif %}
+
+
+{% for event in include.events %}
+<div class="event-container">
+  <div class="event-title-container">
+    <div>
+    <p class="event-title">{{ event.title }}</p>
+    </div>
+    <p class="event-date">{{ event.date }}</p>
+  </div>
+  <p class="event-location">{{ event.location }}</p>
+
+  {% if event.description %}
+  <p class="event-description">{{ event.description }}</p>
+  {% endif %}
+</div>
+{% endfor %}

@@ -1,0 +1,17 @@
+---
+layout: default
+home: true
+---
+
+
+<h3 class="posts-item-note" aria-label="Selected publications">Selected publications</h3>
+{% assign publications = site.publications | where_exp: "pub", "pub.selected" | sort: 'selected' %}
+{% for pub in publications %}
+{% include publication_summary.html pub=pub %}
+{% if forloop.last %}
+{% else %}
+<hr>
+{% endif %}
+{% endfor %}
+
+

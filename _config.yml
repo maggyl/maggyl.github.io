@@ -1,0 +1,96 @@
+# Site settings
+title: Magnus Gyllenhammar # site title
+description: >- # site description
+  Does this change stuff.
+lang: en-US # default lang
+timezone: Stockholm # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+repo: https://github.com/maggyl/maggyl.github.io # site repo [optional]
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Magnus Gyllenhammar # author name
+  bio: >- # tell to the world
+   @ <a href="https://zenseact.com">Zenseact</a> & <a href="https://kth.se">KTH Royal Institute of Technology</a> <br> <br>
+   Hey! I am currently pursuing a PhD as part of my employment at <a href="https://zenseact.com">Zenseact</a>, where I research efficient strategies for safety assurance of Automated Driving Systems (ADSs), i.e. self-driving vehicles. Welcome to my webpage.
+   <br> <br>
+   Stay connected.
+  github: maggyl # github username
+  linkedin: maggyl
+  scholar: 2NAVPBMAAAAJ
+  email: magnus@abgs.se # email adress
+  avatar: /assets/img/profile.jpg
+
+# URL settings
+url: "https://maggyl.github.io"
+baseurl:
+permalink: /:title/
+google_analytics:
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+  publications:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+  - _pages
+  - _publications
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles

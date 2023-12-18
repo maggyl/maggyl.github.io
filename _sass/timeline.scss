@@ -1,0 +1,54 @@
+.event-container {
+    margin-bottom: 1.5em;
+
+    .event-title-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+
+        .event-title {
+            font-size: 1.1em;
+            margin-bottom: 0;
+            color: $black;
+            font-weight: $bold-weight;
+        }
+
+        .event-date {
+            font-size: 0.8em;
+            margin-bottom: 0;
+        }
+
+    }
+
+    .event-location {
+        font-size: 0.8em;
+        margin-bottom: 0;
+        padding: 0 !important;
+        margin: 0;
+    }
+
+    .event-description {
+        font-size: 0.9em;
+    }
+}
+
+
+
+
+
+body[data-theme="dark"] .event-container {
+
+    .event-title {
+        color: $dark-white;
+        font-weight: $bold-weight;
+    }
+
+    .event-date,
+    .event-location,
+    .event-description
+    {
+        color: $dark-text-base-color;
+    }
+
+}

@@ -1,0 +1,58 @@
+{% assign pub = include.pub %}
+
+<article class="__publication_summary">
+    <div class="__publication_thumbnail_container">
+        <a href="{{ pub.url }}"><img src="{{ pub.thumbnail }}" alt="{{ pub.title | escape }}" class="post-item-image">
+        </a>
+    </div>
+    <div class="__publication_meta_container">
+        <h3>
+            <a href="{{ pub.url }}">{{ pub.title | escape }}</a>
+        </h3>
+        {% if pub.authors %}
+        <p>
+            ✍️
+            {% for authorkey in pub.authors %}
+            {% assign author = site.data.authors[authorkey] %}
+            {% if author.url %}
+              <a href="{{ author.url }}" itemprop="author" itemscope
+              itemtype="https://schema.org/Person">
+            {% elsif author.scholar %}
+              <a href="https://scholar.google.se/citations?user={{ author.scholar }}">
+            {% endif %}
+            {{ author.firstname[3] }}
+            {% if author.url or author.scholar %}
+            </a>
+            {% endif %}
+
+            {% unless forloop.last %}, {% endunless %}
+            {% endfor %}
+        </p>
+        {% endif %}
+        {% if pub.venue %}
+          {% assign venue = site.data.venues[pub.venue] %}
+          <p>
+              🏛️ {% if venue.url %}<a
+                href="{{ venue.url }}" itemprop="author" itemscope
+                itemtype="https://schema.org/Person">
+              {% endif %}
+              {{ venue.name }}
+              {% if venue.url %}</a>
+              {% endif %}
+            </p>
+        {% endif %}
+
+        {% if pub.arxiv %}
+        <p>
+            🔗 <a href="{{ pub.arxiv }}">{{ pub.arxiv }}</a>
+        </p>
+        {% endif %}
+
+
+        {% if pub.extras %}
+        <p>
+            🔥 {{ pub.extras }}
+        </p>
+        {% endif %}
+    </div>
+</article>

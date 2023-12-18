@@ -1,0 +1,23 @@
+- title: home
+  url: /
+  external: false
+
+- title: publications
+  url: /publications/
+  external: false
+
+- title: patents
+  url: /patents/
+  external: false
+
+- title: music
+  url: /music/
+  external: false
+
+- title: photography
+  url: /photo/
+  external: false
+
+- title: about
+  url: /about/
+  external: false # set true if you using external link, see below
