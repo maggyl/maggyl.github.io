@@ -26,7 +26,7 @@ layout: page
 </figure>
 
 <figure>
-  <img src="/assets/img/photos/champoluc.jpg"/>
+  <img src="/assets/img/photos/champoluc.JPG"/>
   <figcaption>View from Champoluc, Italy.</figcaption>
 </figure>
 
