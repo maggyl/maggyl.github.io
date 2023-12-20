@@ -24,25 +24,37 @@ google.charts.setOnLoadCallback(drawBarColors);
       ]);
 
       var options_colab = {
-        //title: 'Submissions per collaborator',
-        //backgroundColor: '#616B73',
-        bars: 'horizontal',
-        chartArea: {
-          width: '80%',
-          height: '80%'
-        },
         hAxis: {
           title: 'Number of submissions',
-          minValue: 0,
-        },
-        legend: {
-          position: 'top'
+          titleTextStyle: {color: '#607d8b'},
+          gridlines: { color:'#b0bec5', count:2},
+          textStyle: { color: '#b0bec5', fontName: 'Roboto', fontSize: '12', bold: true}
         },
         vAxis: {
           title: 'Collaborator',
-          textPosition: 'in'
-        }
-      };
+          titleTextStyle: {color: '#607d8b'},
+          textStyle: {
+            color: '#b0bec5', fontName: 'Roboto', fontSize: '12', bold: true
+          },
+          textPosition: 'in',
+          minValue: 0,
+          gridlines: {
+              color:'#b0bec5',
+              count:5
+            }
+        },
+        legend: {position: 'top', alignment: 'center', textStyle: {color:'#607d8b', fontName: 'Roboto', fontSize: '12'} },
+        colors: ["#3f51b5","#2196f3","#03a9f4","#00bcd4","#009688","#4caf50","#8bc34a","#cddc39"],
+        areaOpacity: 0.24,
+        backgroundColor: 'transparent',
+        chartArea: {
+          backgroundColor: "transparent",
+          width: '100%',
+          height: '90%'
+        },
+            colorAxis: {colors: ["#3f51b5","#2196f3","#03a9f4","#00bcd4"] },
+            backgroundColor: 'transparent',
+          };
       var chart = new google.visualization.BarChart(document.getElementById('chart_div_colab'));
       chart.draw(data_colab, options_colab);
 
@@ -56,19 +68,36 @@ google.charts.setOnLoadCallback(drawBarColors);
       ]);
 
       var options_total = {
-        //title: 'Submissions per collaborator',
-        //backgroundColor: '#616B73',
-        chartArea: {
-          width: '95%',
-          height: '80%',
-          //backgroundColor: '#616B73'
-        },
         hAxis: {
-          title: 'Year'
+          title: 'Year',
+          titleTextStyle: {color: '#607d8b'},
+          gridlines: { color:'#b0bec5', count:0},
+          textStyle: { color: '#b0bec5', fontName: 'Roboto', fontSize: '12', bold: true}
         },
         vAxis: {
-          title: 'Number of submissions'
+          title: 'Number of submissions',
+          titleTextStyle: {color: '#607d8b'},
+          textStyle: {
+            color: '#b0bec5', fontName: 'Roboto', fontSize: '12', bold: true
+          },
+          textPosition: 'in',
+          minValue: 0,
+          gridlines: {
+              color:'#b0bec5',
+              count:5
+            }
         },
+        colors: ["#3f51b5","#2196f3","#03a9f4","#00bcd4","#009688","#4caf50","#8bc34a","#cddc39"],
+        areaOpacity: 0.24,
+        backgroundColor: 'transparent',
+        chartArea: {
+          backgroundColor: "transparent",
+          width: '100%',
+          height: '90%'
+        },
+            colorAxis: {colors: ["#3f51b5","#2196f3","#03a9f4","#00bcd4"] },
+            backgroundColor: 'transparent',
+
         legend: {
           position: 'none'
         }
