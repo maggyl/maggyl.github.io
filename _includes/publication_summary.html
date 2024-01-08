@@ -20,12 +20,7 @@
             {% elsif author.scholar %}
               <a href="https://scholar.google.se/citations?user={{ author.scholar }}">
             {% endif %}
-            {{ author.firstname[3] }}
-            {% if author.url or author.scholar %}
-            </a>
-            {% endif %}
-
-            {% unless forloop.last %}, {% endunless %}
+            {{ author.firstname[3]}}{% if author.url or author.scholar %}</a>{% endif %}{% unless forloop.last %}, {% endunless %}
             {% endfor %}
         </p>
         {% endif %}

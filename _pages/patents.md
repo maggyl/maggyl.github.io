@@ -2,6 +2,13 @@
 title: Patent statistics
 permalink: /patents/
 layout: page
+awards:
+  - title: Inventor diploma - Contributor of the year
+    date: 2023
+  - title: Inventor diploma - Thinking outside the box (with Adam Tonderski)
+    date: 2022
+  - title: Inventor diploma - Contributor of the year (with Majid Khorsand Vakilzadeh)
+    date: 2022
 ---
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
@@ -16,3 +23,6 @@ I have been very fortunate to be able to collaborate with so many brilliant mind
 <div id="chart_div_colab" style="height: 540px; width: 100%"></div>
 
 <script src="/assets/js/patent_charts.js"></script>
+
+# Awards
+{% include timeline.html events=page.awards %}

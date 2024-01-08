@@ -27,7 +27,7 @@ experiences:
     description: Starting at Zenseact I was part co-founding the HADES (Highly Autonomous Drive Exposure and Scenarios) team tasked with doing data mining of collected data to extract driving scenarios for scenario-based verification and validation.
   - title: Member of the Board
     location: Chalmers Studentkår Rekrytering AB
-    date: 2015 and 2019
+    date: 2015 &mdash; 2019
     description: As a board member I was part in creating and improving the management materials to facilitate organisational insights. During my years serving at the board we made significant strides in developing the strategy and business plan of the company to maximise student benefits and create a strong, stable company.
   - title: Competence manager Safety, Diagnostics and Autonomous Drive
     location: Infotiv, Gothenburg, Sweden
