@@ -4,6 +4,8 @@ permalink: /photo/
 layout: page
 ---
 
+Occationally I pick up my, now more than a decade old, D-SLR and shot some photos. Below is a small selection of photos I have taken over the years. 
+
 # Selection of photos
 <figure>
   <img src="/assets/img/photos/dunlaoghaire.jpg"/>

@@ -49,7 +49,7 @@ experiences:
     date: summers of 2012 and 2013
 ---
 
-My four character strengths are: critical thinking, curiosity, creativity and love of learning. I am currently honing my critical thinking and making use of my curiosity and creativity in the pursuit of a PhD, as part of my employment at [Zenseact](https://zenseact.com). Outside of work I enjoy spending time with my kids and my life partner, Cecilia. We live in a house in Pixbo together with our two cats, two bunnies and a small flock of chickens. My creativity is further expressed through [music](/music/) and [photography](/photo/), and I enjoy reading to feed my curiosity and love of learning. I also enjoy yoga and walks in nature.
+My four character strengths are: critical thinking, curiosity, creativity and love of learning. I am currently honing my critical thinking and making use of my curiosity and creativity in the pursuit of a PhD as part of my employment at [Zenseact](https://zenseact.com). Outside of work I enjoy spending time with my kids and my life partner, Cecilia. We live in a house in Pixbo together with our two cats, two bunnies and a small flock of chickens. My creativity is further expressed through [music](/music/) (especially singing) and [photography](/photo/) and enjoy reading to feed my curiosity and love of learning. While absorbing (and hopefully creating?) knowledge and insights I also enjoy yoga and walks in nature.
 
 Beyond showcasing my professional achievements in the form of [publications](/publications/) and [patents](/patents/), I aim for this site to be a collection of interesting contributions I have made also in other areas of my life. You can find a selection of photographies [here](/photo/) and some recordings of me singing [here](/music/).
 
