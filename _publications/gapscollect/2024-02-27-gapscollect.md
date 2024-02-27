@@ -7,7 +7,7 @@ authors:
   - maggyl
   - campos
   - torngren
-thumbnail: /assets/img/publications/gapscollect.jpg
+thumbnail: /assets/img/publications/gapscollect.png
 arxiv: /publications/gapscollect/gap_analysis_table.pdf
 ---
 
