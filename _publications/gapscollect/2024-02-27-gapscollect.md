@@ -4,9 +4,9 @@ layout: publication
 permalink: /publications/gapscollect/
 date: 2024-02-27
 authors:
-  - maggyl
-  - campos
-  - torngren
+  - Gyllenhammar
+  - Campos
+  - Torngren
 thumbnail: /assets/img/publications/gapscollect.png
 arxiv: /publications/gapscollect/gap_analysis_table.pdf
 ---
