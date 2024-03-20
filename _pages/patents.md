@@ -18,10 +18,10 @@ awards:
 # Patents
 I have been very fortunate to collaborate with so many brilliant minds at Zenseact (and formerly Zenuity) and we have come up with many exciting ideas together, some of which have turned into patent applications. Below are some statistics of my contributions to the patent portfolio of Zenseact. All of my published patents can be found at [Espacenet](https://worldwide.espacenet.com/patent/search?q=magnus%20gyllenhammar).
 
-Submitted invention disclosures:&ensp; 92  
-Submitted patent applications: &ensp; &emsp; 42  
-Published patent applications: &emsp; &emsp; &emsp; 34  
-Granted patents: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; 7  
+Submitted invention disclosures: &nbsp; 92  
+Submitted patent applications: &nbsp; &ensp; 42  
+Published patent applications: &nbsp; &nbsp; &nbsp; 34  
+Granted patents: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7  
 
 # Number of submissions per year
 <div id="chart_div_total" style="height: 540px; width: 100%"></div>
