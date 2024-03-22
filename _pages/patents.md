@@ -1,5 +1,5 @@
 ---
-title: Patent statistics
+title: Intellectual property
 permalink: /patents/
 layout: page
 awards:
@@ -15,18 +15,18 @@ awards:
 ---
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-# Patents
 I have been very fortunate to collaborate with so many brilliant minds at Zenseact (and formerly Zenuity) and we have come up with many exciting ideas together, some of which have turned into patent applications. Below are some statistics of my contributions to the patent portfolio of Zenseact. All of my published patents can be found at [Espacenet](https://worldwide.espacenet.com/patent/search?q=magnus%20gyllenhammar).
 
+# Patent statistics
 Submitted invention disclosures: &nbsp; 92  
 Submitted patent applications: &nbsp; &ensp; 42  
 Published patent applications: &nbsp; &nbsp; &nbsp; 34  
 Granted patents: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 7  
 
-# Number of submissions per year
+# Submissions per year
 <div id="chart_div_total" style="height: 540px; width: 100%"></div>
 
-# Number of submissions per collaborator
+# Submissions per collaborator
 <div id="chart_div_colab" style="height: 540px; width: 100%"></div>
 
 <script src="/assets/js/patent_charts.js"></script>

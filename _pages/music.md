@@ -26,6 +26,6 @@ Roger Quilter's Dream Valley performed together with Albin Rydberg:
 
 Lunch concert with Albin Rydberg at Fässbergskyrkan 1st of March 2023: <a href="https://fb.watch/pESJ0uqVpk/">facebook live</a>.
 
-# Choral Experiences
+# Choral experiences
 ---
 {% include timeline.html events=page.experiences %}

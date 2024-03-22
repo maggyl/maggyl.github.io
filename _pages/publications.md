@@ -7,6 +7,9 @@ excerpt: All publication to date.
 
 {% assign sorted = site.publications | sort: 'date' | reverse %}
 {%- for pub in sorted-%}
+{%- if pub.hidden == 1 %}
+{% continue %}
+{% endif %}
 {%- capture current_year -%}{{ pub.date | date: "%Y" }}{%- endcapture -%}
 {%- unless current_year == previous_year -%}
 ## {{ current_year }}
