@@ -4,18 +4,18 @@ google.charts.setOnLoadCallback(drawBarColors);
   function drawBarColors() {
       var data_colab = google.visualization.arrayToDataTable([
         ['Collaborator', 'Invention disclosures', 'Patent applications'],
-        ['Majid Khorsand Vakilzadeh', 53, 28],
+        ['Majid Khorsand Vakilzadeh', 54, 28],
         ['Carl Zandén', 39, 26],
-        ['Adam Tonderski', 31, 7],
+        ['Adam Tonderski', 34, 7],
         ['Christoffer Petersson', 15, 2],
         ['Andreas Falkovén', 10, 5],
+        ['Fredrik Sandblom', 7, 2],
+        ['Georg Hess', 7, 2],
         ['Håkan Sivencrona', 5, 3],
-        ['Fredrik Sandblom', 5, 2],
-        ['Georg Hess', 5, 2],
-        ['Gabriel Rodrigues de Campos', 2, 2],
+        ['Gabriel Rodrigues de Campos', 3, 2],
+        ['William Ljungbergh', 3, 0],
         ['Carl Lindberg', 2, 1],
         ['Mina Alibeigi Nabi', 2, 2],
-        ['William Ljungbergh', 3, 0],
         ['Thomas Luvö', 2, 0],
         ['Daniel Åsljung', 1, 1],
         ['Joakim Olsson', 1, 1],
@@ -66,7 +66,7 @@ google.charts.setOnLoadCallback(drawBarColors);
         ['2021', 25, 11],
         ['2022', 19, 14],
         ['2023', 15, 3],
-        ['2024', 6, 2]
+        ['2024', 11, 2]
       ]);
 
       var options_total = {
