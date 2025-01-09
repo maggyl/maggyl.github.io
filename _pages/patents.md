@@ -3,6 +3,9 @@ title: Intellectual property
 permalink: /patents/
 layout: page
 awards:
+  - title: Inventor diploma - 3rd place Contributor of the year
+    date: 2024
+    location: Zenseact
   - title: Inventor diploma - Contributor of the year
     date: 2023
     location: Zenseact
