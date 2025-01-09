@@ -21,7 +21,7 @@ I have been very fortunate to collaborate with so many brilliant minds at Zensea
 Submitted invention disclosures: &nbsp; 102  
 Submitted patent applications: &nbsp; &ensp; 45  
 Published patent applications: &nbsp; &nbsp; &nbsp; 39  
-Granted patents: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  12
+Granted patents: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  12  
 (Updated 2025-01-09)  
 
 # Submissions per year
