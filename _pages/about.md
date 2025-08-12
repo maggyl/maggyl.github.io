@@ -6,7 +6,7 @@ comments: false
 education:
   - title: Ph.D. Efficent strategies for Safety Assurance of ADSs
     location: KTH Royal Institute of Technology Stockholm, Sweden | Zenseact, Gothenburg, Sweden
-    date: 2019 &mdash; Present
+    date: 2019 &mdash; 2025
   - title: M.Sc. Compex Adaptive Systems
     location: Chalmers University of Technology, Gothenburg, Sweden
     date: 2014 &mdash; 2016
@@ -17,9 +17,12 @@ education:
     location: Chalmers University of Technology, Gothenburg, Sweden
     date: 2011 &mdash; 2013
 experiences:
+  - title: Industrial Researcher
+    location: Zenseact, Gothenburg, Sweden
+    date: 2025 &mdash; Present
   - title: Industrial PhD Student - Financing through <a href="https://wasp-sweden.org">WASP</a>
     location: Zenseact, Gothenburg, Sweden
-    date: 2019 &mdash; present
+    date: 2019 &mdash; 2025
     description: In my PhD I investigate efficient strategies for safety assurance of Automated Driving Systems (ADSs), with a focus on data analysis and statistical models and methods.
   - title: Data Analyst || Co-founder of team HADES
     location: Zenseact, Gothenburg, Sweden
