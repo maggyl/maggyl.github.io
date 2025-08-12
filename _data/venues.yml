@@ -22,4 +22,10 @@ DSNW20:
 TITS:
   name: IEEE Transactions on Intelligent Transportation Systems
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6979
+SASSUR25:
+  name: SASSUR 2025 - 12th International Workshop on Next Generation of System Assurance Approaches for Critical Systems
+  url: https://sites.google.com/view/sassur2025
+SAFECOMP25:
+  name: SafeComp 2025 - The 44th International Conference on Computer Safety, Reliability and Security
+  url: https://safecomp2025.se
 ---
