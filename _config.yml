@@ -1,7 +1,6 @@
 # Site settings
 title: Magnus Gyllenhammar # site title
-description: >- # site description
-  Does this change stuff.
+description: Personal page for Magnus Gyllenhammar, where I collect publications and other relevant things. # site description
 lang: en-US # default lang
 timezone: Stockholm # set your timezone
 image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
@@ -13,7 +12,7 @@ author:
   name: Magnus Gyllenhammar # author name
   bio: >- # tell to the world
    @ <a href="https://zenseact.com">Zenseact</a> & <a href="https://kth.se">KTH Royal Institute of Technology</a> <br> <br>
-   Hey! I am currently pursuing a PhD as part of my employment at <a href="https://zenseact.com">Zenseact</a>, where I research efficient strategies for safety assurance of Automated Driving Systems (ADSs), i.e. self-driving vehicles. <br>Welcome to my webpage.
+   Hey! I am researching safe automated driving systems at <a href="https://zenseact.com">Zenseact</a>, with focus on precautionary safety and data-driven strategies for safety assurance.<br>Welcome to my webpage.
    <br> <br>
    Stay connected.
   github: maggyl # github username

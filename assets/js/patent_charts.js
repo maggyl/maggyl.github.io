@@ -6,17 +6,18 @@ google.charts.setOnLoadCallback(drawBarColors);
         ['Collaborator', 'Invention disclosures', 'Patent applications'],
         ['Majid Khorsand Vakilzadeh', 57, 28],
         ['Carl Zandén', 39, 26],
-        ['Adam Tonderski', 34, 7],
-        ['Christoffer Petersson', 15, 2],
+        ['Adam Tonderski', 34, 10],
+        ['Christoffer Petersson', 15, 4],
         ['Andreas Falkovén', 10, 5],
         ['Fredrik Sandblom', 10, 2],
-        ['Georg Hess', 7, 2],
+        ['Georg Hess', 7, 5],
         ['Håkan Sivencrona', 5, 3],
         ['Gabriel Rodrigues de Campos', 3, 2],
         ['William Ljungbergh', 3, 0],
-        ['Carl Lindberg', 2, 1],
         ['Mina Alibeigi Nabi', 2, 2],
-        ['Thomas Luvö', 2, 0],
+        ['Thomas Luvö', 2, 2],
+        ['Carl Lindberg', 2, 1],
+        ['Christoffer Gillberg', 2, 0],
         ['Daniel Åsljung', 1, 1],
         ['Joakim Olsson', 1, 1],
         ['Cagdas Ulas', 1, 1],
@@ -66,7 +67,8 @@ google.charts.setOnLoadCallback(drawBarColors);
         ['2021', 25, 11],
         ['2022', 19, 14],
         ['2023', 15, 3],
-        ['2024', 14, 4]
+        ['2024', 14, 4],
+        ['2025', 2, 1]
       ]);
 
       var options_total = {
