@@ -24,8 +24,6 @@ Beyond my engagement as tenor in the <a href="https://svenskakammarkoren.se">Swe
 Roger Quilter's Dream Valley performed together with Albin Rydberg:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK3pXrl8FPE?si=Y2dG4ZLx3jNuYdPU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Lunch concert with Albin Rydberg at Fässbergskyrkan 1st of March 2023: <a href="https://fb.watch/pESJ0uqVpk/">facebook live</a>.
-
 # Choral experiences
 ---
 {% include timeline.html events=page.experiences %}
