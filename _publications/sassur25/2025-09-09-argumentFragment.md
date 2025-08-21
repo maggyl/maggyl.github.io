@@ -22,9 +22,12 @@ In this paper we present a safety argument fragment to contribute towards soluti
 @inproceedings{ gyllenhammar2025argument,
   title         = {A Safety Argument Fragment Towards Safe Deployment of Performant Automated Driving Systems},
   author        = {Gyllenhammar, Magnus and de Campos, Gabriel Rodrigues and T{\"o}rngren, Martin},
-  booktitle     = {Computer Safety, Reliability, and Security: SAFECOMP Workshops, Stockholm, Sweden, September 9},
-  year          = {2025},
-  organization  = {Springer},
+  booktitle     = {Computer Safety, Reliability, and Security: SAFECOMP Workshops},
+  year          = {2026},
+  publisher     = {Springer Nature Switzerland},
+  address       = {Cham},
+  pages         = {197--210},
+  isbn          = {978-3-032-02018-5},
   doi           = {10.1007/978-3-032-02018-5_15}
 }
 ```

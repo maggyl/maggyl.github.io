@@ -20,12 +20,15 @@ Assessing safety and reliability of Automated Driving Systems (ADSs) is a crucia
 
 # BibTeX
 ```bibtex
-@inproceedings{   gyllenhammar2025sus,
-  title     = {Efficient Injury Risk Assessment for Automated Driving Systems Using Subset Simulation},
-  author    = {Gyllenhammar, Magnus and Åsljung, Daniel and Khorsand Vakilzadeh, Majid and Rodrigues de Campos, Gabriel},
-  booktitle = {Computer Safety, Reliability, and Security: SAFECOMP, Stockholm, Sweden, September 10-12},
-  year      = {2025},
-  organization = {Springer},
-  doi       = {10.1007/978-3-032-01241-8_6}
+@inproceedings{ gyllenhammar2025sus,
+  title         = {Efficient Injury Risk Assessment for Automated Driving Systems Using Subset Simulation},
+  author        = {Gyllenhammar, Magnus and Åsljung, Daniel and Khorsand Vakilzadeh, Majid and Rodrigues de Campos, Gabriel},
+  booktitle     = {Computer Safety, Reliability, and Security},
+  year          = {2026},
+  publisher     = {Springer Nature Switzerland},
+  address       = {Cham},
+  pages         = {82--96},
+  isbn          = {978-3-032-01241-8},
+  doi           = {10.1007/978-3-032-01241-8_6}
 }
 ```
