@@ -43,7 +43,7 @@ experiences:
   - title: Data Scientist
     location: Knowit Decision, Gothenburg, Sweden
     date: 2016 &mdash; 2016
-    description: As a data scientist consultant I was part in analysing customer data, providing insights, visualisations and identifying business opportunities.  
+    description: As a data scientist consultant I analysed customer data, provided insights, visualisations and identified business opportunities.
   - title: UNITECH intern
     location: Infinion AG, Munich, Germany
     date: summer of 2015
