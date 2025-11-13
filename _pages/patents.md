@@ -21,7 +21,7 @@ awards:
 ---
 <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
 
-I have been very fortunate to collaborate with so many brilliant minds at Zenseact (and formerly Zenuity) and we have come up with many exciting ideas together, some of which have turned into patent applications. Below are some statistics of my contributions to the patent portfolio of Zenseact. All of my published patents can be found at [Espacenet](https://worldwide.espacenet.com/patent/search?q=in%20%3D%20%22gyllenhammar%20magnus%22).
+<div style="text-align: justify; text-justify: inter-word"> I have been very fortunate to collaborate with so many brilliant minds at Zenseact (and formerly Zenuity) and we have come up with many exciting ideas together, some of which have turned into patent applications. Below are some statistics of my contributions to the patent portfolio of Zenseact. All of my published patents can be found at <a href="https://worldwide.espacenet.com/patent/search?q=in%20%3D%20%22gyllenhammar%20magnus%22">Espacenet</a>.</div>
 
 # Patent statistics
 Submitted invention disclosures: &nbsp; 113  

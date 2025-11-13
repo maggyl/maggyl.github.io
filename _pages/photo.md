@@ -4,7 +4,7 @@ permalink: /photo/
 layout: page
 ---
 
-Occationally I pick up my, now more than a decade old, D-SLR and shot some photos. Below is a small selection of photos I have taken over the years. 
+<div style="text-align: justify; text-justify: inter-word"> Occasionally I pick up my, now more than a decade old, D-SLR and shot some photos. Below is a small selection of photos I have taken over the years.</div>
 
 # Selection of photos
 <figure>
