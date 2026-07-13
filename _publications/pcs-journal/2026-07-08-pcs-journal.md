@@ -34,5 +34,4 @@ Safety of Automated Driving Systems (ADSs) is arguably one of the main remaining
   url = "https://doi.org/10.4271/12-09-04-0028",
   issn = "2574-0741",
 }
-
 ```
