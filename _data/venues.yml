@@ -14,6 +14,9 @@ ERTS20:
 SAEWCX20:
   name: SAE World Congress Experience 2020
   url: https://www.sae.org/attend/wcx/2020
+SAE-JCAV:
+  name: SAE International Journal of Connected and Automated Vehicles
+  url: https://saemobilus.sae.org/periodicals/sae-international-journal-connected-automated-vehicles-sae-jrnl-00012
 TSE:
   name: IEEE Transactions on Software Engineering
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32
